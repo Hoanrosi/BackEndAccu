@@ -4,7 +4,7 @@ const jsonServer = require("json-server");
 const jsonServerMiddlewares = jsonServer.defaults();
 const server = jsonServer.create();
 const cors = require("cors");
-const router = jsonServer.router("db.json");
+// const router = jsonServer.router("db.json");
 
 server.use(bodyParser.json({ extended: true }));
 server.use(cors());
@@ -63,7 +63,7 @@ const authenticateToken = (req, res, next) => {
 
 server.use(authenticateToken);
 server.use(jsonServerMiddlewares);
-server.use(router);
+// server.use(router);
 
 // Start the server
 server.listen(port, () => {
