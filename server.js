@@ -39,6 +39,10 @@ server.post("/login", (req, res) => {
   return res.status(200).json({ message: "Login successful", token });
 });
 
+server.get("/", (req, res) => {
+  res.send("Hello World!?");
+});
+
 // Middleware to verify JWT token
 const authenticateToken = (req, res, next) => {
   const token = req.header("Authorization")?.split(" ")[1];
