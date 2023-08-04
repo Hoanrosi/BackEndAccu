@@ -1,0 +1,420 @@
+{
+  "Generator": [
+    {
+      "id": 1,
+      "SKU": "MF1_1",
+      "Area": "Máy Phát 1",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 2,
+      "SKU": "MF1_2",
+      "Area": "Máy Phát 1",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 3,
+      "SKU": "MF1_3",
+      "Area": "Máy Phát 1",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 4,
+      "SKU": "MF1_4",
+      "Area": "Máy Phát 1",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 5,
+      "SKU": "MF2_1",
+      "Area": "Máy Phát 2",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 6,
+      "SKU": "MF2_2",
+      "Area": "Máy Phát 2",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 7,
+      "SKU": "MF2_3",
+      "Area": "Máy Phát 2",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 8,
+      "SKU": "MF2_4",
+      "Area": "Máy Phát 2",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 9,
+      "SKU": "MF3_1",
+      "Area": "Máy Phát 3",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 10,
+      "SKU": "MF3_2",
+      "Area": "Máy Phát 3",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 11,
+      "SKU": "MF3_3",
+      "Area": "Máy Phát 3",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 12,
+      "SKU": "MF3_4",
+      "Area": "Máy Phát 3",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 13,
+      "SKU": "MF4_1",
+      "Area": "Máy Phát 4",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 14,
+      "SKU": "MF4_2",
+      "Area": "Máy Phát 4",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 15,
+      "SKU": "MF4_3",
+      "Area": "Máy Phát 4",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    },
+    {
+      "id": 16,
+      "SKU": "MF4_4",
+      "Area": "Máy Phát 4",
+      "Time": "2018",
+      "ModelName": "Ắc quy GS 12V 200AH N200",
+      "Producer": "GS Yuasa Corporation",
+      "Origin": "Việt Nam",
+      "Type": "Ắc quy nước",
+      "Size": "521mm * 278mm * 220mm",
+      "ParameterAccu": [
+        {
+          "Voltage": "12V",
+          "Resistor": "3.0 Ohm",
+          "Time": "10 năm"
+        }
+      ],
+      "SafeThreshold": [
+        {
+          "Voltage": ">=12V",
+          "Resistor": "< 2.8 Ohm",
+          "Time": "8 năm"
+        }
+      ],
+      "Note": "Đã thay thế mới ngày tháng năm"
+    }
+  ]
+}
